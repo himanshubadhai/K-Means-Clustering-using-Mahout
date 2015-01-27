@@ -1,0 +1,224 @@
+VL-3{n=3 c=[area:1.026, back:1.101, coffee:1.026, cream:0.914, delicious:0.795, desserts:1.101, eating:1.197, enjoyable:2.394, experience:2.202, family:2.202, favorite:1.197, food:2.254, friendly:2.492, good:1.321, great:1.367, home:1.931, huge:2.609, leave:2.897, love:1.293, place:0.639, quick:1.101, service:0.795, staff:1.829, stop:0.660, table:1.197, truck:0.708, wait:2.053] r=[area:1.452, back:1.557, coffee:1.452, cream:1.293, delicious:1.125, desserts:1.557, eating:1.692, enjoyable:1.692, experience:1.557, family:1.557, favorite:1.692, food:0.387, good:0.934, great:0.966, home:1.366, love:1.829, place:0.903, quick:1.557, service:1.125, staff:1.293, stop:0.934, table:1.692, truck:1.001, wait:1.452]}
+	Top Terms: 
+		leave                                   =>  2.8971199989318848
+		huge                                    =>   2.609437942504883
+		friendly                                =>   2.491654872894287
+		enjoyable                               =>  2.3935114542643228
+		food                                    =>  2.2543246746063232
+		family                                  =>  2.2017234166463218
+		experience                              =>  2.2017234166463218
+		wait                                    =>  2.0529610315958657
+		home                                    =>  1.9314133326212566
+		staff                                   =>   1.828646183013916
+VL-5{n=2 c=[ago:3.590, atmosphere:3.590, great:2.050, left:3.079, pancakes:3.303, problem:3.590, time:2.291, year:3.590] r=[]}
+	Top Terms: 
+		problem                                 =>  3.5902671813964844
+		atmosphere                              =>  3.5902671813964844
+		year                                    =>  3.5902671813964844
+		ago                                     =>  3.5902671813964844
+		pancakes                                =>  3.3025851249694824
+		left                                    =>   3.079441547393799
+		time                                    =>  2.2909841537475586
+		great                                   =>  2.0498220920562744
+VL-6{n=4 c=[amazing:0.770, area:2.310, attached:1.795, bakery:2.625, breakfast:1.790, coffee:0.770, cone:1.305, cream:2.057, delicious:1.193, desserts:0.826, dinner:1.540, eat:0.724, eclairs:1.651, fresh:0.652, gas:2.693, good:1.486, great:1.025, head:1.540, hope:0.898, huge:1.305, inside:0.898, items:0.898, judge:0.898, made:0.724, miss:0.898, pastry:0.898, pine:1.305, place:0.479, pound:1.413, prices:1.449, puffs:2.310, quick:1.651, reasonable:1.795, recent:1.651, restaurant:2.067, sign:1.795, size:2.177, station:2.693, stop:2.101, stopped:1.651, trip:1.540, truck:1.593] r=[amazing:1.333, area:1.333, attached:1.795, bakery:1.585, breakfast:1.033, coffee:1.333, cone:1.305, cream:1.188, delicious:1.193, desserts:1.430, dinner:1.540, eat:1.254, eclairs:1.651, fresh:1.130, gas:1.555, good:0.858, great:1.025, head:1.540, hope:1.555, huge:1.305, inside:1.555, items:1.555, judge:1.555, made:1.254, miss:1.555, pastry:1.555, pine:1.305, place:0.830, pound:2.447, prices:1.449, puffs:1.333, quick:1.651, reasonable:1.795, recent:1.651, restaurant:2.067, sign:1.795, size:2.177, station:1.555, stop:1.213, stopped:1.651, trip:1.540, truck:0.920]}
+	Top Terms: 
+		gas                                     =>  2.6927003860473633
+		station                                 =>  2.6927003860473633
+		bakery                                  =>    2.62531441450119
+		puffs                                   =>   2.309581160545349
+		area                                    =>   2.309581160545349
+		size                                    =>  2.1774940490722656
+		stop                                    =>   2.100986659526825
+		restaurant                              =>   2.066591501235962
+		cream                                   =>  2.0572269558906555
+		sign                                    =>  1.7951335906982422
+VL-8{n=5 c=[ate:1.436, beats:0.661, bit:2.218, breakfast:1.350, breakfasts:0.661, chicken:1.566, cinnamon:0.579, coffee:1.232, cone:1.566, cooking:1.159, cream:1.646, cut:2.154, diner:0.616, doctor:0.522, dumpling:0.718, eat:1.738, eclairs:1.321, eggs:2.318, experience:0.661, food:1.875, forward:0.718, french:1.436, fresh:2.304, fried:0.616, friendly:0.997, fries:0.718, glad:0.718, good:0.560, goods:1.097, gravy:1.130, greasy:1.015, great:1.120, hash:2.260, hashbrowns:1.595, head:1.232, health:0.718, highway:0.661, home:0.579, huge:1.044, large:1.848, left:0.616, links:2.452, looked:0.661, made:0.579, madison:1.436, makes:0.718, menu:0.616, morning:2.154, nice:0.997, ordered:0.661, pancakes:1.321, pastries:0.661, patty:2.452, people:0.579, pie:0.661, pine:1.566, place:0.383, plate:1.321, positive:0.718, prices:1.738, puffs:1.232, quick:1.868, reasonable:0.718, reviews:0.661, roll:0.661, saturday:2.154, sausage:3.189, service:0.955, soup:0.718, special:1.436, steak:1.738, stop:0.396, stopped:0.661, taste:0.718, tasty:1.982, thing:0.718, toast:2.464, top:0.661, trip:0.616, truck:0.425, wife:1.015, wonderful:0.718, work:0.661, worth:0.718, year:1.436] r=[ate:1.759, beats:1.321, bit:1.863, breakfast:1.653, breakfasts:1.321, chicken:1.278, cinnamon:1.159, coffee:1.509, cone:1.278, cooking:1.419, cream:1.344, cut:1.759, diner:1.232, doctor:1.044, dumpling:1.436, eat:1.419, eclairs:1.618, eggs:1.159, experience:1.321, food:1.093, forward:1.436, french:1.759, fresh:1.226, fried:1.232, friendly:1.221, fries:1.436, glad:1.436, good:1.121, goods:1.344, gravy:2.260, greasy:2.031, great:1.452, hash:2.768, hashbrowns:2.000, head:1.509, health:1.436, highway:1.321, home:1.159, huge:1.278, large:1.509, left:1.232, links:2.074, looked:1.321, made:1.159, madison:1.759, makes:1.436, menu:1.232, morning:1.759, nice:1.221, ordered:1.321, pancakes:1.618, pastries:1.321, patty:2.074, people:1.159, pie:1.321, pine:1.278, place:0.767, plate:1.618, positive:1.436, prices:1.419, puffs:1.509, quick:2.288, reasonable:1.436, reviews:1.321, roll:1.321, saturday:1.759, sausage:1.708, service:1.169, soup:1.436, special:1.759, steak:1.419, stop:0.792, stopped:1.321, taste:1.436, tasty:1.618, thing:1.436, toast:1.232, top:1.321, trip:1.232, truck:0.850, wife:2.031, wonderful:1.436, work:1.321, worth:1.436, year:1.759]}
+	Top Terms: 
+		sausage                                 =>  3.1892581939697267
+		toast                                   =>   2.463553237915039
+		patty                                   =>   2.451587772369385
+		links                                   =>   2.451587772369385
+		eggs                                    =>  2.3176959991455077
+		fresh                                   =>  2.3037232398986816
+		hash                                    =>  2.2603275299072267
+		bit                                     =>   2.218282604217529
+		saturday                                =>  2.1541603088378904
+		morning                                 =>  2.1541603088378904
+VL-9{n=5 c=[ago:0.718, amazing:0.616, answers:1.321, area:1.232, atmosphere:1.436, back:1.321, baked:1.848, bakery:2.502, big:1.232, breakfast:0.477, breakfasts:0.661, butter:2.031, case:0.718, cheap:2.154, chicken:0.522, cinnamon:2.218, cone:1.948, cooked:1.384, country:1.436, crazy:1.436, creek:1.015, crispy:1.130, david:2.260, delicious:1.432, desserts:0.661, dining:0.718, dinner:1.683, driver:1.436, easy:0.661, eat:0.579, eating:0.718, eggs:1.004, enjoyable:1.436, fast:1.015, food:1.517, found:0.616, fresh:0.522, friendly:0.498, give:0.579, good:1.913, goods:2.422, greasy:1.015, great:1.400, hard:2.642, hashbrowns:0.661, home:2.162, homemade:0.718, huge:0.522, i:1.487, inside:0.718, johnson:1.015, large:0.616, leave:0.579, left:1.232, location:0.718, long:0.718, looked:0.661, lynch:2.260, made:1.738, make:1.848, meal:2.743, minutes:0.718, nice:0.997, older:1.436, ordered:1.982, pancakes:0.661, past:1.436, pastries:0.661, people:1.159, perfect:0.718, perfectly:1.598, pine:1.948, place:2.094, pretty:0.934, prices:2.218, recent:0.661, restaurant:1.909, reviews:0.661, road:0.661, roll:1.982, rolls:2.318, selection:1.321, service:1.432, size:0.616, staff:1.097, star:2.719, stars:1.232, stop:2.165, street:2.031, table:1.436, taste:0.718, thing:0.718, thought:2.154, time:2.504, times:1.436, toast:0.616, trip:0.616, truck:1.699, wait:0.616, waitress:1.848, wanted:1.436, worth:1.436, years:0.616] r=[ago:1.436, amazing:1.232, answers:1.618, area:1.509, atmosphere:1.759, back:1.618, baked:1.509, bakery:2.067, big:1.509, breakfast:0.955, breakfasts:1.321, butter:2.487, case:1.436, cheap:1.759, chicken:1.044, cinnamon:1.863, cone:1.737, cooked:2.768, country:1.759, crazy:1.759, creek:2.031, crispy:2.260, david:2.768, delicious:1.169, desserts:1.321, dining:1.436, dinner:2.181, driver:1.759, easy:1.321, eat:1.159, eating:1.436, eggs:2.007, enjoyable:1.759, fast:2.031, food:1.274, found:1.232, fresh:1.044, friendly:0.997, give:1.159, good:1.024, goods:1.288, greasy:2.031, great:1.184, hard:1.321, hashbrowns:1.321, home:1.928, homemade:1.436, huge:1.044, i:1.865, inside:1.436, johnson:2.031, large:1.232, leave:1.159, left:1.509, location:1.436, long:1.436, looked:1.321, lynch:2.768, made:1.419, make:1.509, minutes:1.436, nice:1.221, older:1.759, ordered:1.618, pancakes:1.321, past:1.759, pastries:1.321, people:1.419, perfect:1.436, perfectly:3.197, pine:1.737, place:1.221, pretty:1.868, prices:1.863, recent:1.321, restaurant:0.955, reviews:1.321, road:1.321, roll:1.618, rolls:1.159, selection:1.618, service:1.169, size:1.232, staff:1.344, star:1.446, stars:1.509, stop:1.262, street:2.487, table:1.759, taste:1.436, thing:1.436, thought:1.759, time:1.459, times:1.759, toast:1.232, trip:1.232, truck:0.850, wait:1.232, waitress:1.509, wanted:1.759, worth:1.759, years:1.232]}
+	Top Terms: 
+		meal                                    =>   2.742969274520874
+		star                                    =>  2.7186625480651854
+		hard                                    =>   2.642068099975586
+		time                                    =>   2.503633975982666
+		bakery                                  =>   2.501850128173828
+		goods                                   =>   2.421610403060913
+		rolls                                   =>  2.3176959991455077
+		lynch                                   =>  2.2603275299072267
+		david                                   =>  2.2603275299072267
+		prices                                  =>   2.218282604217529
+VL-11{n=3 c=[absolutely:1.101, amazing:3.079, baked:3.079, bakery:0.914, big:1.026, breakfast:0.795, cinnamon:2.897, cooking:1.931, driver:2.394, food:0.934, found:2.053, good:1.321, goods:2.743, great:2.050, head:1.452, home:1.931, homemade:2.394, items:1.197, leave:1.931, miss:1.197, omg:1.197, pie:2.202, piece:2.394, place:1.916, recent:2.202, restaurant:0.795, rolls:2.897, size:2.053, stop:0.934, surprise:2.394, time:0.764, truck:2.710] r=[absolutely:1.557, bakery:1.293, big:1.452, breakfast:1.125, cooking:1.366, driver:1.692, food:1.321, found:1.452, good:0.934, head:2.053, home:1.366, homemade:1.692, items:1.692, leave:1.366, miss:1.692, omg:1.692, pie:1.557, piece:1.692, recent:1.557, restaurant:1.125, size:1.452, stop:1.321, surprise:1.692, time:1.080, truck:0.415]}
+	Top Terms: 
+		baked                                   =>   3.079441547393799
+		amazing                                 =>   3.079441547393799
+		cinnamon                                =>  2.8971199989318848
+		rolls                                   =>  2.8971199989318848
+		goods                                   =>   2.742969274520874
+		truck                                   =>  2.7104373772939048
+		piece                                   =>  2.3935114542643228
+		homemade                                =>  2.3935114542643228
+		driver                                  =>  2.3935114542643228
+		surprise                                =>  2.3935114542643228
+VL-13{n=4 c=[absolutely:2.477, apple:1.413, bit:0.724, breakfasts:1.651, charm:3.064, cooking:1.449, crazy:0.898, creek:0.898, delicious:2.633, fast:0.898, find:0.826, food:0.990, friendly:0.623, i:0.770, location:0.898, love:0.686, omg:1.795, pastries:0.826, pastry:1.795, perfect:0.898, pie:0.826, piece:0.898, place:1.916, restaurant:0.597, selection:0.826, service:1.193, simple:0.898, stop:0.990, takes:0.826, truck:0.531] r=[absolutely:1.430, apple:2.447, bit:1.254, breakfasts:1.651, charm:1.871, cooking:1.449, crazy:1.555, creek:1.555, delicious:0.428, fast:1.555, find:1.430, food:0.990, friendly:1.079, i:1.333, location:1.555, love:1.188, omg:1.795, pastries:1.430, pastry:1.795, perfect:1.555, pie:1.430, piece:1.555, restaurant:1.033, selection:1.430, service:1.193, simple:1.555, stop:0.990, takes:1.430, truck:0.920]}
+	Top Terms: 
+		charm                                   =>   3.064484715461731
+		delicious                               =>   2.633403241634369
+		absolutely                              =>   2.476938843727112
+		place                                   =>  1.9162907600402832
+		pastry                                  =>  1.7951335906982422
+		omg                                     =>  1.7951335906982422
+		breakfasts                              =>  1.6512925624847412
+		cooking                                 =>  1.4485599994659424
+		apple                                   =>  1.4127047061920166
+		service                                 =>  1.1931471824645996
+VL-19{n=2 c=[attached:3.590, bakery:2.743, beats:3.303, big:3.079, butter:5.077, cone:3.690, cream:2.743, diner:3.079, eclairs:3.303, energy:5.651, food:1.981, highway:3.303, live:3.590, pine:3.690, place:1.916, point:3.590, puffs:3.079, restaurant:2.386, size:3.079, steak:4.097, stop:2.801, times:5.077, truck:3.004, wisconsin:5.651, work:3.303] r=[]}
+	Top Terms: 
+		wisconsin                               =>   5.650818824768066
+		energy                                  =>   5.650818824768066
+		butter                                  =>   5.077404499053955
+		times                                   =>   5.077404499053955
+		steak                                   =>   4.097146511077881
+		cone                                    =>  3.6903023719787598
+		pine                                    =>  3.6903023719787598
+		live                                    =>  3.5902671813964844
+		point                                   =>  3.5902671813964844
+		attached                                =>  3.5902671813964844
+VL-23{n=2 c=[big:3.079, dr:3.690, found:3.079, goldberg:2.609, great:2.050, health:3.590, judge:3.590, medical:3.303, options:3.590, patient:3.590, patients:2.897, started:3.590, years:4.355] r=[]}
+	Top Terms: 
+		years                                   =>   4.354988098144531
+		dr                                      =>  3.6903023719787598
+		patient                                 =>  3.5902671813964844
+		judge                                   =>  3.5902671813964844
+		options                                 =>  3.5902671813964844
+		health                                  =>  3.5902671813964844
+		started                                 =>  3.5902671813964844
+		medical                                 =>  3.3025851249694824
+		found                                   =>   3.079441547393799
+		big                                     =>   3.079441547393799
+VL-24{n=4 c=[barrel:1.413, breakfast:1.193, chicken:1.305, cracker:1.413, crowd:2.693, diner:1.540, dinner:0.770, dumpling:0.898, eggs:0.724, expected:0.898, family:2.335, favorite:0.898, food:1.896, fresh:0.652, fried:1.540, good:1.486, great:1.449, guy:1.795, homestyle:1.795, hot:1.795, hours:0.898, live:1.795, lunch:1.651, madison:0.898, make:1.540, nice:2.127, older:1.795, people:2.173, place:1.660, point:0.898, pretty:2.477, road:1.651, selection:0.826, service:1.193, simply:0.898, soup:0.898, started:0.898, stop:1.486, surprise:1.795, takes:0.826, tasty:1.651, time:1.718, trip:1.540, waitress:2.310] r=[barrel:2.447, breakfast:1.193, chicken:1.305, cracker:2.447, crowd:1.555, diner:1.540, dinner:1.333, dumpling:1.555, eggs:1.254, expected:1.555, family:2.335, favorite:1.555, food:1.145, fresh:1.130, fried:1.540, good:0.858, great:1.449, guy:1.795, homestyle:1.795, hot:1.795, hours:1.555, live:1.795, lunch:1.651, madison:1.555, make:1.540, nice:1.298, older:1.795, people:1.254, place:1.660, point:1.555, pretty:1.430, road:1.651, selection:1.430, service:1.193, simply:1.555, soup:1.555, started:1.555, stop:0.858, surprise:1.795, takes:1.430, tasty:1.651, time:0.992, trip:1.540, waitress:1.333]}
+	Top Terms: 
+		crowd                                   =>  2.6927003860473633
+		pretty                                  =>   2.476938843727112
+		family                                  =>   2.335280179977417
+		waitress                                =>   2.309581160545349
+		people                                  =>  2.1728399991989136
+		nice                                    =>   2.126760423183441
+		food                                    =>  1.8958650827407837
+		guy                                     =>  1.7951335906982422
+		older                                   =>  1.7951335906982422
+		live                                    =>  1.7951335906982422
+VL-25{n=2 c=[breakfast:2.386, lunch:3.303, nice:2.492, place:1.916] r=[]}
+	Top Terms: 
+		lunch                                   =>  3.3025851249694824
+		nice                                    =>   2.491654872894287
+		breakfast                               =>   2.386294364929199
+		place                                   =>  1.9162907600402832
+VL-26{n=2 c=[eat:2.897, good:1.981, large:3.079, makes:3.590, menu:3.079] r=[]}
+	Top Terms: 
+		makes                                   =>  3.5902671813964844
+		menu                                    =>   3.079441547393799
+		large                                   =>   3.079441547393799
+		eat                                     =>  2.8971199989318848
+		good                                    =>  1.9808292388916016
+VL-28{n=2 c=[bit:2.897, cooking:2.897, dnt:5.651, expected:3.590, find:3.303, head:3.079, homestyle:3.590, love:2.743, missed:3.590, music:5.077, nice:2.492, people:2.897, place:2.710, play:5.077, sign:3.590] r=[]}
+	Top Terms: 
+		dnt                                     =>   5.650818824768066
+		music                                   =>   5.077404499053955
+		play                                    =>   5.077404499053955
+		sign                                    =>  3.5902671813964844
+		missed                                  =>  3.5902671813964844
+		expected                                =>  3.5902671813964844
+		homestyle                               =>  3.5902671813964844
+		find                                    =>  3.3025851249694824
+		head                                    =>   3.079441547393799
+		cooking                                 =>  2.8971199989318848
+VL-29{n=2 c=[beats:3.303, diner:3.079, family:3.303, friendly:3.524, huge:2.609, menu:3.079, nice:2.492, options:3.590, road:3.303, salad:3.590, simple:3.590, staff:2.743] r=[]}
+	Top Terms: 
+		simple                                  =>  3.5902671813964844
+		options                                 =>  3.5902671813964844
+		salad                                   =>  3.5902671813964844
+		friendly                                =>  3.5237319469451904
+		road                                    =>  3.3025851249694824
+		beats                                   =>  3.3025851249694824
+		family                                  =>  3.3025851249694824
+		menu                                    =>   3.079441547393799
+		diner                                   =>   3.079441547393799
+		staff                                   =>   2.742969274520874
+VL-30{n=3 c=[breakfast:1.591, cone:0.870, friday:2.394, friendly:1.661, love:3.500, menu:2.053, music:2.394, pine:0.870, play:2.394] r=[breakfast:1.125, cone:1.230, friday:1.692, friendly:1.175, love:0.536, menu:1.452, music:1.692, pine:1.230, play:1.692]}
+	Top Terms: 
+		love                                    =>  3.5004192193349204
+		play                                    =>  2.3935114542643228
+		friday                                  =>  2.3935114542643228
+		music                                   =>  2.3935114542643228
+		menu                                    =>  2.0529610315958657
+		friendly                                =>  1.6611032485961914
+		breakfast                               =>  1.5908629099527996
+		cone                                    =>  0.8698126475016276
+		pine                                    =>  0.8698126475016276
+VL-31{n=3 c=[ate:1.197, average:3.767, back:2.202, bad:2.394, batter:3.767, bit:1.931, breakfast:1.591, chicken:1.740, coffee:1.026, coming:2.394, decided:2.394, deep:3.767, food:1.321, fresh:1.740, friday:2.394, fried:3.556, fries:2.394, give:4.097, good:0.660, great:1.367, highway:2.202, hope:2.394, hot:1.197, long:2.394, looked:3.114, lunch:3.114, made:1.931, meal:2.743, plate:2.202, positive:2.394, restaurant:3.045, review:3.303, reviews:3.114, salad:2.394, service:1.591, smelt:4.614, special:2.394, star:2.053, stars:4.355, steak:1.931, stopped:2.202, street:2.394, terrible:2.394, wait:2.053, wanted:1.197, workers:4.146, write:2.394] r=[ate:1.692, average:2.664, back:1.557, bad:1.692, batter:2.664, bit:1.366, breakfast:1.125, chicken:1.230, coffee:1.452, coming:1.692, decided:1.692, deep:2.664, food:0.934, fresh:1.230, friday:1.692, fried:2.514, fries:1.692, good:0.934, great:0.966, highway:1.557, hope:1.692, hot:1.692, long:1.692, looked:2.202, lunch:2.202, made:1.366, plate:1.557, positive:1.692, restaurant:0.466, reviews:2.202, salad:1.692, service:1.125, smelt:3.263, special:1.692, star:1.452, steak:1.366, stopped:1.557, street:1.692, terrible:1.692, wait:1.452, wanted:1.692, workers:2.931, write:1.692]}
+	Top Terms: 
+		smelt                                   =>   4.613874117533366
+		stars                                   =>   4.354988098144531
+		workers                                 =>   4.145683288574219
+		give                                    =>   4.097146511077881
+		average                                 =>  3.7672125498453775
+		deep                                    =>  3.7672125498453775
+		batter                                  =>  3.7672125498453775
+		fried                                   =>   3.555832862854004
+		review                                  =>  3.3025851249694824
+		looked                                  =>   3.113706906636556
+VL-35{n=3 c=[answers:2.202, arizona:3.590, bad:2.394, call:3.767, decided:2.394, doctor:3.883, dr:3.330, find:1.101, frustration:2.394, give:2.731, goldberg:3.330, guy:2.394, i:1.026, johnson:3.385, leave:1.931, left:2.903, mail:4.582, make:2.053, missed:1.197, moving:3.590, nyc:1.197, office:4.403, practice:3.385, refills:3.767, review:2.202, staff:1.829, stay:3.767, time:1.527, write:2.394] r=[answers:1.557, bad:1.692, call:2.664, decided:1.692, doctor:0.900, dr:0.510, find:1.557, frustration:1.692, give:1.931, goldberg:0.510, guy:1.692, i:1.452, johnson:2.394, leave:1.366, left:2.053, mail:0.701, make:1.452, missed:1.692, nyc:1.692, office:3.114, practice:2.394, refills:2.664, review:1.557, staff:1.293, stay:2.664, time:1.080, write:1.692]}
+	Top Terms: 
+		mail                                    =>   4.581692059834798
+		office                                  =>  4.4034468332926435
+		doctor                                  =>  3.8829320271809897
+		stay                                    =>  3.7672125498453775
+		refills                                 =>  3.7672125498453775
+		call                                    =>  3.7672125498453775
+		moving                                  =>  3.5902671813964844
+		arizona                                 =>  3.5902671813964844
+		johnson                                 =>  3.3849363327026367
+		practice                                =>  3.3849363327026367
+VL-36{n=3 c=[case:1.197, country:2.394, doctor:2.460, dr:0.870, easy:3.303, goldberg:0.870, great:1.367, i'm:1.197, medical:2.202, nice:0.831, notch:4.582, patients:0.966, practice:2.394, time:0.764, top:4.215, wait:2.053, wonderful:2.394] r=[case:1.692, country:1.692, doctor:1.740, dr:1.230, goldberg:1.230, great:0.966, i'm:1.692, medical:1.557, nice:1.175, notch:0.701, patients:1.366, practice:1.692, time:1.080, top:0.645, wait:1.452, wonderful:1.692]}
+	Top Terms: 
+		notch                                   =>   4.581692059834798
+		top                                     =>   4.214568614959717
+		easy                                    =>  3.3025851249694824
+		doctor                                  =>  2.4602015813191733
+		country                                 =>  2.3935114542643228
+		wonderful                               =>  2.3935114542643228
+		practice                                =>  2.3935114542643228
+		medical                                 =>  2.2017234166463218
+		wait                                    =>  2.0529610315958657
+		great                                   =>  1.3665480613708496
+VL-37{n=4 c=[answers:0.826, doctor:3.087, doctors:3.064, dr:3.690, experience:0.826, feel:0.898, forward:1.795, found:0.770, friendly:0.623, frustration:0.898, give:0.724, glad:0.898, goldberg:3.420, good:0.495, hours:0.898, i'm:0.898, medical:0.826, minutes:0.898, nyc:0.898, office:1.651, past:1.795, patient:0.898, patients:2.897, phone:1.413, problem:0.898, simply:0.898, staff:2.341, stars:0.770, takes:0.826, terrible:0.898, time:0.573, wife:1.795, work:0.826, workers:0.898, years:2.310] r=[answers:1.430, doctor:0.827, doctors:1.871, experience:1.430, feel:1.555, forward:1.795, found:1.333, friendly:1.079, frustration:1.555, give:1.254, glad:1.555, goldberg:0.468, good:0.858, hours:1.555, i'm:1.555, medical:1.430, minutes:1.555, nyc:1.555, office:1.651, past:1.795, patient:1.555, phone:2.447, problem:1.555, simply:1.555, staff:1.429, stars:1.333, takes:1.430, terrible:1.555, time:0.992, wife:1.795, work:1.430, workers:1.555, years:1.333]}
+	Top Terms: 
+		dr                                      =>  3.6903023719787598
+		goldberg                                =>  3.4200862646102905
+		doctor                                  =>   3.086998224258423
+		doctors                                 =>   3.064484715461731
+		patients                                =>  2.8971199989318848
+		staff                                   =>   2.341270685195923
+		years                                   =>   2.309581160545349
+		forward                                 =>  1.7951335906982422
+		wife                                    =>  1.7951335906982422
+		past                                    =>  1.7951335906982422
+VL-39{n=2 c=[coming:3.590, cooking:2.897, dining:3.590, feel:3.590, good:1.981, love:2.743, stop:1.981, truck:2.124] r=[]}
+	Top Terms: 
+		coming                                  =>  3.5902671813964844
+		dining                                  =>  3.5902671813964844
+		feel                                    =>  3.5902671813964844
+		cooking                                 =>  2.8971199989318848
+		love                                    =>   2.742969274520874
+		truck                                   =>  2.1239302158355713
+		good                                    =>  1.9808292388916016
+		stop                                    =>  1.9808292388916016
